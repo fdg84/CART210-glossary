@@ -1,4 +1,4 @@
-## Digital Footprints
+## Digital Footprint
 
 Digital footprints are defined as a way to map and record the online activities of an individual’s life, using trails of metadata to log information that can prove someone’s personal identity [^blue]. These patterns are categorized in two distinct classifications; passive and active digital footprints [^arakerimath]. Passive digital footprints are collected online without direct user intervention, usually in the form of geo-tracking, browsing history, IP addresses and cookies, while active digital footprints are tracked using the deliberate data left by users on social media platforms and other uploading websites [^kaku]. 
 
